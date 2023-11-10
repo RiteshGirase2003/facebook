@@ -411,7 +411,11 @@ color:#F5C33B;
     .add-post-links i {
         font-size: 10px; 
     }
-    
+    .user-profile{
+        font-size : 10;
+
+
+    }
     .post-text {
         font-size: 5px;
     }
