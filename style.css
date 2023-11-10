@@ -370,7 +370,7 @@ color:#F5C33B;
     
     .search-box
     {
-        width: 200px;
+        width: 180px;
         
     }
 
@@ -404,11 +404,11 @@ color:#F5C33B;
     }
     
     .add-post-links a {
-        font-size: 0.8px; 
+        font-size: 2px; 
     }
     
     .add-post-links i {
-        font-size: 3px; 
+        font-size: 5px; 
     }
     
     .post-text {
