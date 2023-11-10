@@ -411,17 +411,7 @@ color:#F5C33B;
     .add-post-links i {
         font-size: 10px; 
     }
-    .username{
-        font-size : 10px;
-        color:red;
-
-
-    }
-    .datetime{
-        font-size : 5px;
-
-        color:green;
-    }
+   
     .post-text {
         font-size: 5px;
     }
@@ -429,6 +419,15 @@ color:#F5C33B;
     width:35px;
     border-radius: 50%;
     margin-right: 10px;
+    }
+     .username{
+        font-size : 10px;
+         margin-bottom: 5px;
+        
+    }
+    .datetime{
+        font-size : 5px;
+
     }
 
     .activity-icons 
