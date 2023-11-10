@@ -423,9 +423,10 @@ color:#F5C33B;
         font-size: 10px;
     }
 
-    .activity-icons
+    .activity-icons, .activity-icons i
     {
-        font-size:10px
+        font-size:10px;
+        
     }
     .footer {
         font-size: 13px;
