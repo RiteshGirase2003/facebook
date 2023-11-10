@@ -370,12 +370,12 @@ color:#F5C33B;
     
     .search-box
     {
-        width: 150px;
+        width: 200px;
         
     }
 
     .search-box input{
-        width : 50%;
+        width : 40%;
         background: transparent;
         padding: 10px;
         outline:none;
@@ -404,11 +404,11 @@ color:#F5C33B;
     }
     
     .add-post-links a {
-        font-size: 10px; 
+        font-size: 5px; 
     }
     
     .add-post-links i {
-        font-size: 12px; 
+        font-size: 10px; 
     }
     
     .post-text {
@@ -417,7 +417,7 @@ color:#F5C33B;
 
     .activity-icons
     {
-        font-size:59px
+        font-size:5px
     }
     .footer {
         font-size: 13px;
