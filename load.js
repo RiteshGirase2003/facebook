@@ -29,8 +29,8 @@ function shuffleArray(array) {
                             <div class="user-profile">
                                 <img src="${item.image}"  >
                                 <div>
-                                    <p>${item.user_name}</p>
-                                    <p>${item.date_time}</p>
+                                    <p class="username">${item.user_name}</p>
+                                    <p class="datetime">${item.date_time}</p>
                                 </div>
                         
                                 <a href="#"><i class="fas fa-ellipsis-v"></i></a>
