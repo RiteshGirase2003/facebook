@@ -352,7 +352,7 @@ color:#F5C33B;
     }
 
     .nav-left ul li i {
-        font-size: 20px;
+        font-size: 15px;
         margin: 0 15px;
     }
 
@@ -370,7 +370,7 @@ color:#F5C33B;
     
     .search-box
     {
-        width: 180px;
+        width: 150px;
         
     }
 
@@ -404,11 +404,11 @@ color:#F5C33B;
     }
     
     .add-post-links a {
-        font-size: 2px; 
+        font-size: 10px; 
     }
     
     .add-post-links i {
-        font-size: 5px; 
+        font-size: 12px; 
     }
     
     .post-text {
