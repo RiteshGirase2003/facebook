@@ -434,13 +434,4 @@ color:#F5C33B;
 }
 
 
-@media only screen and (max-width: 480px) {
-   
 
-    .nav-left ul li i {
-        display:none;
-    }
-
-   
-
-}
