@@ -410,10 +410,13 @@ color:#F5C33B;
     
     .add-post-links a {
         font-size: 5px; 
+        margin-right: 80px;
     }
     
     .add-post-links i {
         font-size: 10px; 
+         margin-right: 10px;
+
     }
     
     .post-text {
