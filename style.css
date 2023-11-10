@@ -435,66 +435,12 @@ color:#F5C33B;
 
 
 @media only screen and (max-width: 480px) {
-    * {
-    box-sizing: border-box;
-    }
-
-    nav {
-        padding: 10px 0;
-        height: auto;
-    }
-
-    .logo {
-        font-size: 24px;
-        margin-right: 10px;
-    }
+   
 
     .nav-left ul li i {
-        font-size: 18px;
-        margin: 0 10px;
+        display:none;
     }
 
-    .nav-user-icon img {
-        width: 30px;
-    }
+   
 
-    .search-box {
-        width: 100%;
-    }
-
-    .search-box input {
-        width: 70%;
-    }
-
-    .left-sidebar, .right-sidebar {
-        display: none;
-    }
-
-    .container {
-        padding: 10px;
-    }
-
-    .main-content {
-        margin: 0;
-    }
-
-    .write-post-container, .post-container {
-        width: 100%;
-    }
-
-    .add-post-links a {
-        font-size: 12px;
-    }
-
-    .post-text {
-        font-size: 12px;
-    }
-
-    .activity-icons i {
-        font-size: 14px;
-    }
-
-    .footer {
-        font-size: 10px;
-    }
 }
