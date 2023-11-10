@@ -347,8 +347,9 @@ color:#F5C33B;
     }
 
     .logo {
-        font-size: 30px;
-        margin-right: 20px;
+        font-size: 25px;
+        margin-right: 15px;
+        margin-left: 5px;
     }
 
     .nav-left ul li i {
@@ -398,20 +399,20 @@ color:#F5C33B;
         margin: 0 auto; 
         padding-left: 20px;
         padding-right: 20px; 
-        width: 80%;
+        width: 90%;
     }
 
     .add-post-links {
-        margin: 0;
+        margin:0 ;
         text-align: center; 
     }
     
     .add-post-links a {
-        font-size: 8px; 
+        font-size: 5px; 
     }
     
     .add-post-links i {
-        font-size: 12px; 
+        font-size: 10px; 
     }
     
     .post-text {
