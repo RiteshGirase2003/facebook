@@ -342,7 +342,7 @@ color:#F5C33B;
 
 @media only screen and (max-width: 768px) {
     nav {
-        padding: 5px;
+        padding: 5px 0;
         height :50px;
     }
 
@@ -352,12 +352,12 @@ color:#F5C33B;
     }
 
     .nav-left ul li i {
-        font-size: 20px;
+        font-size: 10px;
         margin: 0 15px;
     }
 
     .nav-user-icon img {
-        width: 40px;
+        width: 35px;
     }
 
 
@@ -370,7 +370,7 @@ color:#F5C33B;
     
     .search-box
     {
-        width: 200px;
+        width: 180px;
         
     }
 
