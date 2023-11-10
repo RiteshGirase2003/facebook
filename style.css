@@ -353,7 +353,7 @@ color:#F5C33B;
     }
 
     .nav-left ul li i {
-        font-size: 15px;
+        font-size: 10px;
         margin: 0 15px;
     }
 
@@ -364,14 +364,14 @@ color:#F5C33B;
 
         
     .search-box i{
-        font-size : 12px;
+        font-size : 10px;
 
     }
 
     
     .search-box
     {
-        width: 200px;
+        width: 150px;
         
     }
 
@@ -405,24 +405,37 @@ color:#F5C33B;
     }
     
     .add-post-links a {
-        font-size: 2px; 
+        font-size: 5px; 
     }
     
     .add-post-links i {
         font-size: 10px; 
     }
-    .user-profile{
-        font-size : 10;
+    .user-profile username{
+        font-size : 10px;
+
+
+    }
+    .user-profile datetime{
+        font-size : 5px;
 
 
     }
     .post-text {
         font-size: 5px;
     }
+    .user-profile img{
+    width:35px;
+    border-radius: 50%;
+    margin-right: 10px;
+    }
 
-    .activity-icons
+    .activity-icons, .activity-icons i
     {
         font-size:5px
+    }
+    .load-more-btn{
+        font-size:10px;
     }
    
 
