@@ -432,3 +432,18 @@ color:#F5C33B;
         font-size: 13px;
     }
 }
+
+@media only screen and (max-width: 300px)
+{
+    .nav-left ul li i {
+        font-size: 5px;
+        margin: 0 10px;
+    }
+
+     .activity-icons, .activity-icons i
+    {
+        font-size:5px;
+        
+    }
+
+}
