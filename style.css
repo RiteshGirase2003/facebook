@@ -371,7 +371,7 @@ color:#F5C33B;
     
     .search-box
     {
-        width: 150px;
+        width: 200px;
         
     }
 
@@ -411,13 +411,13 @@ color:#F5C33B;
     .add-post-links i {
         font-size: 10px; 
     }
-    .user-profile username{
+    .username{
         font-size : 10px;
         color:red;
 
 
     }
-    .user-profile datetime{
+    .datetime{
         font-size : 5px;
 
         color:green;
@@ -440,7 +440,7 @@ color:#F5C33B;
         font-size:5px
     }
     .load-more-btn{
-        color:red;
+        
         font-size:5px;
     }
    
