@@ -413,13 +413,14 @@ color:#F5C33B;
     }
     .user-profile username{
         font-size : 10px;
+        color:red;
 
 
     }
     .user-profile datetime{
         font-size : 5px;
 
-
+        color:green;
     }
     .post-text {
         font-size: 5px;
@@ -436,7 +437,6 @@ color:#F5C33B;
     }
     .activity-icons i
     {
-        color:red;
         font-size:5px
     }
     .load-more-btn{
