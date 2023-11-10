@@ -389,13 +389,16 @@ color:#F5C33B;
     .container {
         padding: 10px 5%;
     }
+    .main-content{
+        margin: 0 auto;
+    }
 
     .write-post-container,
     .post-container {
         margin: 0 auto; 
         padding-left: 20px;
         padding-right: 20px; 
-        width: 80%;
+        width: 100%;
     }
 
     .add-post-links {
@@ -404,11 +407,11 @@ color:#F5C33B;
     }
     
     .add-post-links a {
-        font-size: 0.8px; 
+        font-size: 8px; 
     }
     
     .add-post-links i {
-        font-size: 3px; 
+        font-size: 12px; 
     }
     
     .post-text {
