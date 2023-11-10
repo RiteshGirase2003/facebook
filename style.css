@@ -433,16 +433,22 @@ color:#F5C33B;
     }
 }
 
+
 @media only screen and (max-width: 300px)
 {
+    .nav{
+        width:100%;
+    }
+    .logo{
+        margin-right: 10px;
+    }
     .nav-left ul li i {
         font-size: 5px;
         margin: 0 10px;
     }
-
-     .activity-icons, .activity-icons i
+    .activity-icons, .activity-icons i
     {
-        font-size:5px;
+        font-size:10px;
         
     }
 
